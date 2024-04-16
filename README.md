@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meriemmjh
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning computer systems networking, software developing, coding & geeking
+- 🌱 I’m currently learning network simulator ns-3, computer systems networking, software developing,  coding & geeking
 - 💞️ I’m looking to collaborate with other content creators 
 - 📫 How to reach me: linkedin.com/in/meriem-mdjahri-s956520275
 
